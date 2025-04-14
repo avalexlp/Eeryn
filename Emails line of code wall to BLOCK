@@ -1,0 +1,15 @@
+{
+  "id": 123,
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "links": [
+    {
+      "rel": "self",
+      "href": "/users/123"
+    },
+    {
+      "rel": "orders",
+      "href": "/users/123/orders"
+    }
+  ]
+}
